@@ -19,7 +19,7 @@ This project addresses key business problems:
 - Which issues are driving customer dissatisfaction?
 - How can we coach agents based on actual conversation patterns?
 
-With this project, teams can automatically monitor service quality, detect emerging issues, and identify training needs — all from raw text.
+With this project, teams can automatically monitor service quality, detect emerging issues, and identify training needs all from raw text.
 
 
 
